@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8895'
     url: http://www.gutenberg.org/2009/agents/8895
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19807#Sketch-of-Grammar-of-the-Chippeway-LanguagesTo-Which-is-Added-a-Vocabulary-of-some-of-the-Mos_
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
